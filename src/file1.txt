@@ -1,0 +1,6 @@
+Hello world
+Hello java
+Result one
+world Hello world
+Hello java
+Input file

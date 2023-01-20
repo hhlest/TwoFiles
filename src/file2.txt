@@ -1,0 +1,6 @@
+Hello java Hello
+Input file
+java Hello java
+Hello java
+file
+two Result
